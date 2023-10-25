@@ -1,4 +1,4 @@
-package seminars.fourth.book;
+package BockService;
 
 import java.util.ArrayList;
 import java.util.HashMap;

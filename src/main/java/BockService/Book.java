@@ -1,4 +1,4 @@
-package seminars.fourth.book;
+package BockService;
 
 public class Book {
     private String id;
